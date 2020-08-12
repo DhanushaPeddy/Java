@@ -7,7 +7,7 @@ Arrays
 Linked List
   -> Sequential access
   -> Dynamic Allocation
-  -> Sequential process
+  -> Can add/retrieve at/from any position 
   -> To store any records
 
 Stack
