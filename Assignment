@@ -1,0 +1,52 @@
+Day 1 :
+
+1)Source code Vs Object code
+  source code -> code we write
+  object code -> code that is in .class file or in any compiled file
+2)Compiler with flags
+
+3)Keywords and variables
+  keywords -> special meaning words used in prog langs.
+  Variables -> names of identifiers
+4)Variable Scope,lifetime,intial value,modifiers
+  variaable scope -> block where variable is visible/accesible
+  lifetime -> time which variable lives in 
+  Intial value ->
+  Modifiers -> For restrictions
+  Access modifiers(public,private,protected) , non access modifiers(final,static,etc)
+5) Selection constructs -> if,switch
+   Looping constructs -> for, while, do-while
+6) Array Declaration -> datatype[] array_name = new datatype[size];
+7) Processing array elements -> done through index value
+
+
+----------------------------------------------------------------------------------------------
+
+
+Day 2 : 
+
+1) Pointers
+
+2) Functions
+    Definition -> access_specifier return type methodname() { ---- }
+    Invocation -> classObject.function();
+3) Call by value & refernces
+    by value -> value is passed as parameter
+    by reference -> refernce is passed (class object)
+4) DMA
+    allocation -> memory on heap (with new operator)
+    deallocation -> garbage collector(automatically deletes memory if it is no longer usable)
+5) Memory leakage
+     situation where memory can't be neither deleted nor pointed
+6) User defined structures
+
+7) access data members
+      public -> can be accessed anywhere
+      private -> by generating getters/setters
+8) DMA for user defined structures
+9) Array of pointers
+10) Iterate array of pointers
+
+----------------------------------------------------------------------------------------------
+
+Day 3 :
