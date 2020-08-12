@@ -1,0 +1,23 @@
+Arrays
+  -> Random access
+  -> Static allocation
+  -> Can go random
+  -> store homogenous data in fixed size
+ 
+Linked List
+  -> Sequential access
+  -> Dynamic Allocation
+  -> Sequential process
+  -> To store any records
+
+Stack
+  -> Sequential access
+  -> Dynamic Allocation
+  -> From the top
+  -> For expression evaluations
+  
+ Queue
+  -> Sequential access
+  -> Dynamic Allocation
+  -> From the front(retrieval) and rear(pushing)
+  -> Ordering
