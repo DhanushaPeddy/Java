@@ -38,6 +38,7 @@ public class Stack {
 	}
 	public static void main(String[] args) {
 		Stack obj = new Stack();
+		obj.pop();
 		obj.push(10);
 		obj.push(20);
 		obj.push(30);
