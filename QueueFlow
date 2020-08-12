@@ -13,7 +13,7 @@ main() {
       Queue is full!
     }
     else {
-      element should be added to rear element and read should be incremented
+      element should be assigned as rear element and rear should be incremented
     }
   }
   dequeue() {
