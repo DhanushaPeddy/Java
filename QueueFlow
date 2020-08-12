@@ -1,0 +1,28 @@
+main() {
+  //calling all functions
+  displayQueue() {
+      if(front==rear) {
+        Queue is empty!
+      }
+      else {
+        Shows the queue elements
+      }
+  }
+  enqueue(){
+    if(rear=MAX_SIZE) {
+      Queue is full!
+    }
+    else {
+      element should be added to rear element and read should be incremented
+    }
+  }
+  dequeue() {
+    if(front==rear) {
+        Queue is empty!
+      }
+      else {
+        rear should be assigned as 0 and rear should be decremented
+      }
+  }
+}
+    
