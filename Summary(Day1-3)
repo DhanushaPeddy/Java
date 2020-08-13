@@ -10,9 +10,9 @@ Day 1 :
   keywords -> special meaning/reserved words used in prog langs.
   Variables -> names of identifiers
 4)Variable Scope,lifetime,intial value,modifiers
-  variaable scope -> block where variable is visible/accesible
+  variable scope -> block where variable is visible/accesible
   lifetime -> time which variable lives in 
-  Intial value ->
+  Intial value -> if not intialised, default values are taken into consideration
   Modifiers -> For restrictions
   Access modifiers(public,private,protected) , non access modifiers(final,static,etc)
 5) Selection constructs -> if,switch
@@ -48,12 +48,14 @@ Day 2 :
       public -> can be accessed anywhere
       private -> by generating getters/setters
 8) DMA for user defined structures
-    For objects -> using constructors
 9) Array of pointers
     Array of objects to store multiple objects of class
 10) Iterate array of pointers
     Iteration can be done using for and for-each loop
+    
+    
 ----------------------------------------------------------------------------------------------
+
 
 Day 3 :
 
