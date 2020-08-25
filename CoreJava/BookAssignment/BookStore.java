@@ -14,9 +14,6 @@ public class BookStore {
 			if(book.getIsbn()==ID) {
 				return book;
 			}
-			else {
-				System.out.println("Sorry, Book not found!!");
-			}
 		}
 		return new Book();
 	}
