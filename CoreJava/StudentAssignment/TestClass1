@@ -1,0 +1,9 @@
+
+public class TestClass1 {
+	public static void main(String[] args) {
+		StudentManipulation manipulate = new StudentManipulation();
+		Student[] students = manipulate.createStudents();
+		students[0].display();
+	}
+}
+	
