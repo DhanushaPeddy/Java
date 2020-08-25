@@ -1,0 +1,11 @@
+
+public class TestClass2 {
+	public static void main(String[] args) {
+		StudentManipulation manipulate = new StudentManipulation();
+		Student[] students = manipulate.createStudents();
+		for(Student s : students) {
+			s.display();
+		}
+		System.out.println("Maxmimum marks scored: "+manipulate.findMax(students));
+	}
+}
