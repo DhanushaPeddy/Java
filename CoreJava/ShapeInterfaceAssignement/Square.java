@@ -10,8 +10,8 @@ public class Square extends Shape implements Calculatable{
 
 	public void display() {
 		// TODO Auto-generated method stub
-		System.out.println("Area of Square : "+area());
-		System.out.println("Perimter of Square : "+perimeter());
+		System.out.println("Area of " +getName()+" : "+area());
+		System.out.println("Perimeter of " +getName()+" : "+perimeter());
 	}
 	public double area() {
 		return side*side;
