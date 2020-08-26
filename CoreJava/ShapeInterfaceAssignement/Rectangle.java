@@ -10,8 +10,8 @@ public class Rectangle extends Shape implements Calculatable{
 	}
 	public void display() {
 		// TODO Auto-generated method stub
-		System.out.println("Area of Rectangle : "+area());
-		System.out.println("Perimeter of Rectangle : "+perimeter());
+		System.out.println("Area of " +getName()+" : "+area());
+		System.out.println("Perimeter of " +getName()+" : "+perimeter());
 	}
 	public double area() {
 		return length*breadth;
